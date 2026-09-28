@@ -130,7 +130,7 @@ See ['SUPPLY_CHAIN_RECOMMENDATIONS.md'](SUPPLY_CHAIN_RECOMMENDATIONS.md) for the
 
 ## Power BI Dashboard
 
-See ['Power BI/Power_BI_guide.md'](Power BI/Power_BI_GUIDE) for a full walkthrough: DAX measures, page layouts (Executive Overview, Supplier Scorecard, Inventory Health), and an optional proper star-schema model.
+See ['Power_BI_guide.md'](Power_BI_GUIDE) for a full walkthrough: DAX measures, page layouts (Executive Overview, Supplier Scorecard, Inventory Health), and an optional proper star-schema model.
 
 ## Possible Next Steps
 
